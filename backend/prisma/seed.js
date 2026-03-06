@@ -25,8 +25,8 @@ async function main() {
             description: 'Deploy Backend to Render and Frontend to Netlify',
         },
         {
-            title: 'ภาคิน อินแถลง',
-            description: '6604101365',
+            title: 'กิตติกร ชุ่มรัศมี',
+            description: '6604101305',
         },
     ];
 
