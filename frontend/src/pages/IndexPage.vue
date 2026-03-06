@@ -59,7 +59,7 @@
                 v-model="studentId"
                 outlined
                 label="รหัสนักศึกษา"
-                placeholder="เช่น 6604101365"
+                placeholder="เช่น 6604101305"
                 :disable="submitting"
                 @keyup.enter="addStudent"
               >
