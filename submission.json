@@ -1,0 +1,11 @@
+{
+  "student_id": "6604101305",
+  "name": "กิตติกร ชุ่มรัศมี",
+  "github_repo": "https://github.com/mjukao/lab4-poxy",
+  "backend_base_url": "https://lab4-proxy.onrender.com",
+  "frontend_url": "https://lab4-poxy.netlify.app",
+  "api": {
+    "health": "https://lab4-proxy.onrender.com/",
+    "tasks": "https://lab4-proxy.onrender.com/api/tasks"
+  }
+}
