@@ -44,7 +44,7 @@
                 v-model="studentName"
                 outlined
                 label="ชื่อ-นามสกุล"
-                placeholder="เช่น ภาคิน อินแถลง"
+                placeholder="เช่น กิตติกร ชุ่มรัศมี"
                 :disable="submitting"
                 @keyup.enter="addStudent"
               >
